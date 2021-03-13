@@ -1,0 +1,266 @@
+# created Sat Mar 13 14:57:09 2021
+# by Framsticks 4.3
+org:
+name:Oluhan Odeasa
+genotype:~
+rLLLLLLLCfE(RFMX[@2:0.913,4:-0.495,0:1,in:0.8,s:0][|1:3.878, 1:4.974,in:0.814465,5:0.121], llaFMX[@1:1.777,2:2.17][|1:-3.212], eX[G:1.784,fo:0.914284,s:0][@!:0.080, /:-1.58111], FMX[|-2:4.399][@-1:6.589,1:1,in:0.8,s:-0.507], LLCFMMsX[|-1:5.719, -1:4.026,in:0.8][@-3:9.745,in:0.8,-2:5.316,in:0.872314])~
+info:2.70% mutation of 'Usufug Odeasa'
+energy0:1.7758
+numparts:6
+numjoints:5
+numneurons:20
+numconnections:26
+num:617
+gnum:7
+instances:2
+lifespan:8879.0
+velocity:0.0587809114438723
+distance:521.915712710142
+vertvel:0.000508051716943529
+vertpos:0.473882278288197
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g416
+
+org:
+name:Itiwap Odeasa
+genotype:~
+rLLLLLLLCfE(RFMX[@2:2.607,4:-0.495,0:1,in:0.8,s:0][|1:3.878, 1:3.873,in:0.814465,5:0.121], llaFMX[@1:1.777,2:2.17][|1:-3.212], eX[G:1.784,fo:1][@!:1, /:-1.58111], FMX[|-2:4.399][@-1:6.589,1:1,in:0.8,s:0], LLCFMMsX[|-1:5.719, -1:4.026,in:0.8][@-3:10.413,in:0.8,-2:5.316,in:0.8,in:0.8])~
+info:1.39% mutation of 'Oniwig Odeasa'
+energy0:1.7758
+numparts:6
+numjoints:5
+numneurons:20
+numconnections:26
+num:539
+gnum:8
+instances:1
+lifespan:8879.0
+velocity:0.0573403744645263
+distance:509.125184870529
+vertvel:0.000392765726726478
+vertpos:0.349311118969177
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g258
+
+org:
+name:Onuhaf Odeasa
+genotype:~
+rLLLLLLLCfE(RFMX[@2:0.913,4:-0.495,0:1,in:0.8,s:0][|1:3.878, 1:4.974,in:0.814465,5:0.121], llaFMX[@1:1.777,2:2.17][|1:-3.212], eX[G:1.784,fo:0.914284,s:0][@!:0.080, /:-2.28566], FMX[|-2:4.399][@-1:6.589,1:1,in:0.8,s:-0.507], LLCFMMsX[|-1:5.719, -1:4.026,in:0.8][@-3:9.745,in:0.8,-2:5.316,in:0.872314])~
+info:2.66% mutation of 'Oluhan Odeasa'
+energy0:1.7758
+numparts:6
+numjoints:5
+numneurons:20
+numconnections:26
+num:641
+gnum:8
+instances:1
+lifespan:8879.0
+velocity:0.057465524297918
+distance:510.236390241214
+vertvel:0.000537731876971092
+vertpos:0.860418113858914
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g465
+
+org:
+name:Ezuzuz Odeasa
+genotype:~
+rLLLLLLLCfE(RFMX[@2:0.913,4:-0.495,0:1,in:0.8,s:0][|1:3.878, 1:3.907,in:0.814465,5:0.121], llaFMX[@1:1.777,2:2.17][|1:-3.212], eX[G:1.784,fo:0.914284,s:0][@!:0.080, /:-1.58111], FMX[|-2:4.399][@-1:6.589,1:1,in:0.8,s:0], LLCFMMsX[|-1:5.719, -1:4.026,in:0.8][@-3:9.745,in:0.8,-2:4.661,in:0.8,s:0])~
+info:1.69% mutation of 'Ozuzim Odeasa'
+energy0:1.7758
+numparts:6
+numjoints:5
+numneurons:20
+numconnections:26
+num:627
+gnum:7
+instances:1
+lifespan:8879.0
+velocity:0.0579394214193016
+distance:514.444122781979
+vertvel:0.000410084455531854
+vertpos:0.426967154312506
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g436
+
+org:
+name:Etanur Odeasa
+genotype:~
+rLLLLLLLCfE(RFMX[@2:0.913,4:-0.495,0:1,in:0.8,s:0][|1:3.878, 1:3.873,in:0.814465,5:0.121], llaFMX[@1:1.777,2:2.17][|1:-3.212], eX[G:1.784,fo:0.914284,s:0][@!:0.161074, /:-1.58111], FMX[|-2:4.399][@-1:6.589,1:1,in:0.8,s:0], LLCFMMsX[|-1:5.719, -1:4.026,in:0.8][@-3:9.745,in:0.8,-2:5.426,in:0.8])~
+info:2.75% mutation of 'Ifanic Odeasa'
+energy0:1.7758
+numparts:6
+numjoints:5
+numneurons:20
+numconnections:26
+num:662
+gnum:6
+instances:1
+lifespan:8879.0
+velocity:0.0576045902502129
+distance:511.47115683164
+vertvel:0.000412912154727224
+vertpos:0.449502756387444
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g507
+
+org:
+name:Osufi Odeasa
+genotype:~
+rLLLLLLLCfE(RFMX[@2:0.913,4:-0.495,0:1,in:0.8,s:0][|1:3.878, 1:3.873,in:0.814465,5:0.121], llaFMX[@1:1.777,2:2.17][|1:-3.212], eX[G:1.784,fo:0.914284,s:0][@!:0.080, /:-1.58111], FMX[|-2:4.399][@-1:6.589,1:1,in:0.8,s:-0.507], LLCFMMsX[|-1:6.756, -1:4.026,in:0.8][@-3:9.745,in:0.8,-2:5.316,in:0.8])~
+info:1.69% mutation of 'Esufur Odeasa'
+energy0:1.7758
+numparts:6
+numjoints:5
+numneurons:20
+numconnections:26
+num:631
+gnum:6
+instances:4
+lifespan:8879.0
+velocity:0.057325768626233
+distance:508.995499632323
+vertvel:0.000547352625748829
+vertpos:0.490224326382261
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g445
+
+org:
+name:Imuhic Odeasa
+genotype:~
+rLLLLLLLCfE(RFMX[@2:0.913,4:-0.495,0:1,in:0.8,s:-0.46][|1:3.878, 1:4.974,in:0.814465,5:0.121], llaFMX[@1:1.777,2:2.17][|1:-3.212], eX[G:1.784,fo:0.914284,s:0][@!:0.080, /:-1.58111], FMX[|-2:4.399][@-1:6.589,1:1,in:0.8,s:-0.507], LLCFMMsX[|-1:5.719, -1:4.026,in:0.8][@-3:9.745,in:0.8,-2:5.316,in:0.872314])~
+info:1.66% mutation of 'Oluhan Odeasa'
+energy0:1.7758
+numparts:6
+numjoints:5
+numneurons:20
+numconnections:26
+num:674
+gnum:8
+instances:1
+lifespan:8879.0
+velocity:0.057860320078009
+distance:513.741781972642
+vertvel:0.000169759274928552
+vertpos:0.174232110189586
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g531
+
+org:
+name:Isimag Odeasa
+genotype:~
+rLLLLLLLCfE(RFMX[@2:0.913,4:-0.495,0:1,in:0.8,s:0][|1:3.878, 1:4.974,in:0.814465,5:0.121], llaFMX[@1:1.777,2:2.17][|1:-3.212], eX[G:1.784,fo:0.914284,s:0][@!:0.080, /:-1.58111], FMX[|-2:4.399][@-1:6.589,1:1,in:0.8,s:-0.507], LLCFMMsX[|-1:5.719, -1:4.026,in:0.8][@-3:9.745,in:0.8,-2:5.316,in:0.872314,fo:0.04])~
+info:2.66% mutation of 'Oluhan Odeasa'
+energy0:1.7758
+numparts:6
+numjoints:5
+numneurons:20
+numconnections:26
+num:686
+gnum:8
+instances:1
+lifespan:8879.0
+velocity:0.0575768410628736
+distance:511.224771797255
+vertvel:0.000605656160604129
+vertpos:0.742188941252782
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g555
+
+org:
+name:Afanaw Odeasa
+genotype:~
+rLLLLLLLCfE(RFMX[@2:0.913,4:-0.495,0:1,in:0.8,s:0][|1:3.878, 1:3.873,in:0.814465,5:0.121], llaFMX[@1:1.777,2:2.17][|1:-3.212], eX[G:1.784,fo:0.914284,s:0][@!:0.080, /:-1.58111], FMX[|-2:4.399][@-1:6.589,1:1,in:0.8,s:0], LLCFMMsX[|-1:5.339, -1:4.026,in:0.8][@-3:9.745,in:0.8,-2:5.426,in:0.8])~
+info:1.72% mutation of 'Ifanic Odeasa'
+energy0:1.7758
+numparts:6
+numjoints:5
+numneurons:20
+numconnections:26
+num:622
+gnum:6
+instances:2
+lifespan:8879.0
+velocity:0.0577576214062546
+distance:512.829920466135
+vertvel:0.000454952279375492
+vertpos:0.453791231647525
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g426
+
+org:
+name:Ewufuh Udeasa
+genotype:~
+rLLLLLLLCfE(RFMX[@2:0.913,4:-0.495,0:1,in:0.8,s:0,2:1][|1:3.878, 1:4.974,in:0.814465,5:0.121], llaFMX[@1:1.777,2:2.17][|1:-3.212], eX[G:1.784,fo:0.914284,s:0][@!:0.080, /:-1.58111], FMX[|-2:4.399][@-1:6.589,1:1,in:0.8,s:-0.507], LLCFMMsX[|-1:5.719, -1:4.026,in:0.8][@-3:9.745,in:0.8,-2:5.316,in:0.8])~
+info:1.35% mutation of 'Usufug Odeasa'
+energy0:1.7758
+numparts:6
+numjoints:5
+numneurons:20
+numconnections:27
+num:649
+gnum:7
+instances:1
+lifespan:8879.0
+velocity:0.0566138901941663
+distance:502.674731034002
+vertvel:0.000579091958873832
+vertpos:0.627320273658774
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g481
+
+org:
+name:Ifanic Odeasa
+genotype:~
+rLLLLLLLCfE(RFMX[@2:0.913,4:-0.495,0:1,in:0.8,s:0][|1:3.878, 1:3.873,in:0.814465,5:0.121], llaFMX[@1:1.777,2:2.17][|1:-3.212], eX[G:1.784,fo:0.914284,s:0][@!:0.080, /:-1.58111], FMX[|-2:4.399][@-1:6.589,1:1,in:0.8,s:0], LLCFMMsX[|-1:5.719, -1:4.026,in:0.8][@-3:9.745,in:0.8,-2:5.426,in:0.8])~
+info:1.72% mutation of 'Afufaw Odeasa'
+energy0:1.7758
+numparts:6
+numjoints:5
+numneurons:20
+numconnections:26
+num:565
+gnum:5
+instances:2
+lifespan:8879.0
+velocity:0.0567690207803033
+distance:504.052135508313
+vertvel:0.000442650016568386
+vertpos:0.517449707196761
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g311
+
